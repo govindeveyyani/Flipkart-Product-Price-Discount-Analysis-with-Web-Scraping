@@ -1,0 +1,510 @@
+,product_name,Price,Ratings,Discount_Percentage,Brand
+0,"SAMSUNG Galaxy F16 5G (Glam Green, 128 GB)",14499.0,4.3,23.0,SAMSUNG
+1,"SAMSUNG Glaxy F06 5G (Lit Violet, 128 GB)",9199.0,4.3,34.0,SAMSUNG
+2,"realme P3 5G (Nebula Pink, 128 GB)",16999.0,4.4,15.0,realme
+3,"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1149.0,4,17.0,Nokia
+4,"Nothing Phone (3a) (Black, 128 GB)",24999.0,4.5,10.0,Nothing
+5,"SAMSUNG Galaxy F16 5G (Vibing Blue, 128 GB)",12999.0,4.2,25.0,SAMSUNG
+6,"REDMI A3X (Ocean Green, 64 GB)",6199.0,4.1,38.0,REDMI
+7,"POCO C61 (Diamond Dust Black, 64 GB)",5699.0,4.2,36.0,POCO
+8,"POCO C61 (Ethereal Blue, 64 GB)",5699.0,4.2,36.0,POCO
+9,"POCO M7 5G (Ocean Blue, 128 GB)",9999.0,4.2,23.0,POCO
+10,"SAMSUNG Galaxy F06 5G (Bahama Blue, 128 GB)",9199.0,4.2,34.0,SAMSUNG
+11,"SAMSUNG Galaxy F16 5G (Bling Black, 128 GB)",14499.0,4.3,23.0,SAMSUNG
+12,"realme C61 (Marble Black, 64 GB)",7699.0,4.3,14.0,realme
+13,"POCO C61 (Mystical Green, 64 GB)",5699.0,4.2,36.0,POCO
+14,"Infinix SMART 9 HD (Neo Titanium, 64 GB)",6699.0,4.2,25.0,Infinix
+15,"realme C61 (Marble Black, 128 GB)",8199.0,4.4,25.0,realme
+16,"SAMSUNG Galaxy F06 5G (Bahama Blue, 128 GB)",10699.0,4.1,30.0,SAMSUNG
+17,"SAMSUNG Galaxy F16 5G (Bling Black, 128 GB)",12999.0,4.2,25.0,SAMSUNG
+18,"Infinix SMART 9 HD (Metallic Black, 64 GB)",6699.0,4.2,25.0,Infinix
+19,"POCO C75 5G (Aqua Bliss, 64 GB)",7999.0,4.3,27.0,POCO
+20,"SAMSUNG Galaxy F16 5G (Glam Green, 128 GB)",11499.0,4.2,28.0,SAMSUNG
+21,"SAMSUNG Galaxy F06 5G (Lit Violet, 128 GB)",10699.0,4.1,30.0,SAMSUNG
+22,"REDMI 13 5G (Black Diamond, 128 GB)",12499.0,4.3,30.0,REDMI
+23,"POCO M6 Plus 5G (Ice Silver, 128 GB)",10499.0,4.2,34.0,POCO
+24,"OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)",16994.0,4.4,19.0,OnePlus
+25,"Infinix Note 40X 5G (Palm Blue, 256 GB)",13999.0,4.3,36.0,Infinix
+28,"Nokia 106-SS-1578,32 MB,1000 mAh Battery.",1342.0,4,21.0,Nokia
+29,Nokia 106,1102.0,3.9,35.0,Nokia
+30,Nokia 105 Classic with Charger,1164.0,3.9,16.0,Nokia
+31,"MOTOROLA g05 (Forest Green, 64 GB)",6999.0,4.3,30.0,MOTOROLA
+34,"OnePlus Nord CE4 (Celadon Marble, 256 GB)",23749.0,4.5,12.0,OnePlus
+35,"OnePlus 12R (Sunset Dune, 256 GB)",34499.0,4.5,19.0,OnePlus
+38,"Infinix Note 40X 5G (Lime Green, 256 GB)",13999.0,4.3,36.0,Infinix
+39,"Infinix Note 40X 5G (Palm Blue, 256 GB)",12999.0,4.2,35.0,Infinix
+40,"REDMI A3X (Midnight Black, 64 GB)",6199.0,4.1,38.0,REDMI
+41,"POCO M7 5G (Satin Black, 128 GB)",9999.0,4.2,23.0,POCO
+44,"SAMSUNG Galaxy A05 (Silver, 128 GB)",8752.0,4.2,41.0,SAMSUNG
+45,"realme P2 Pro 5G (Eagle Grey, 128 GB)",18999.0,4.4,26.0,realme
+48,"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)",22999.0,4.4,17.0,Motorola
+49,"OnePlus Nord CE4 (Dark Chrome, 256 GB)",23738.0,4.5,12.0,OnePlus
+50,"MOTOROLA g35 5G (Midnight Black, 128 GB)",9999.0,4.2,20.0,MOTOROLA
+51,"realme P1 5G (Feather Blue, 128 GB)",13999.0,4.4,33.0,realme
+54,"realme NARZO N65 5G (AMBER GOLD, 128 GB)",9999.0,4.3,28.0,realme
+55,"POCO M7 5G (Mint Green, 128 GB)",9999.0,4.2,23.0,POCO
+58,"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",17248.0,4.4,13.0,OnePlus
+59,KARBONN K9,1262.0,4,33.0,KARBONN
+60,"REDMI 13c 5G (Startrail Green, 128 GB)",10978.0,4.3,21.0,REDMI
+61,"POCO M7 Pro 5G (Olive Twilight, 256 GB)",15499.0,4.2,26.0,POCO
+63,"SAMSUNG Galaxy F16 5G (Bling Black, 128 GB)",11499.0,4.2,28.0,SAMSUNG
+64,"POCO M7 Pro 5G (Lunar Dust, 128 GB)",13999.0,4.3,26.0,POCO
+65,itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice,1255.0,4.1,30.0,itel
+68,"REDMI Note 13 Pro 5G (Scarlet Red, 128 GB)",17499.0,4.3,39.0,REDMI
+69,"realme Narzo N65 5G (Deep Green, 128 GB)",10099.0,4.3,27.0,realme
+70,"REDMI 13 5G (Orchid Pink, 128 GB)",13999.0,4.3,30.0,REDMI
+71,LAVA A3 Vibe,1189.0,4.2,27.0,LAVA
+74,"realme 13+ 5G (Speed Green, 128 GB)",22999.0,4.4,11.0,realme
+75,"Motorola g64 5G (Mint Green, 256 GB)",15999.0,4.2,20.0,Motorola
+78,"vivo T3 Lite 5G (Vibrant Green, 128 GB)",10499.0,4.4,27.0,vivo
+79,"realme C63 (Leather Blue, 128 GB)",8999.0,4.3,18.0,realme
+80,"realme P1 5G (Peacock Green, 128 GB)",13999.0,4.4,33.0,realme
+81,"REDMI 13 5G (Black Diamond, 128 GB)",12080.0,4.3,32.0,REDMI
+84,Kechaoda A27,899.0,4,40.0,Kechaoda
+85,"vivo T4x 5G (Marine Blue, 256 GB)",16999.0,4.5,19.0,vivo
+88,"Infinix Hot 50 5G (Dreamy Purple, 128 GB)",9499.0,4.3,26.0,Infinix
+89,"Nothing Phone (2a) 5G (White, 128 GB)",17999.0,4.4,30.0,Nothing
+90,"Motorola g45 5G (Brilliant Green, 128 GB)",10999.0,4.3,15.0,Motorola
+91,"vivo Y18t (Gem Green, 128 GB)",8599.0,4.2,28.0,vivo
+94,"Infinix Note 40 Pro 5G (Vintage Green, 256 GB)",18999.0,4.2,32.0,Infinix
+95,"vivo T4x 5G (Marine Blue, 128 GB)",14999.0,4.5,23.0,vivo
+99,Kechaoda A26,899.0,4,35.0,Kechaoda
+100,"SAMSUNG M35 5G (Moonlight Blue, 128 GB)",14395.0,4.4,41.0,SAMSUNG
+101,"Motorola G85 5G (Viva Magenta, 256 GB)",19999.0,4.4,13.0,Motorola
+104,"SAMSUNG Galaxy S24+ 5G (Onyx Black, 256 GB)",56999.0,4.5,43.0,SAMSUNG
+105,"realme C61 (Safari Green, 128 GB)",8199.0,4.4,25.0,realme
+108,"Infinix Note 40X 5G (Starlit Black, 256 GB)",13999.0,4.3,36.0,Infinix
+109,Kechaoda A26,894.0,4,40.0,Kechaoda
+110,"Motorola G85 5G (Urban Grey, 128 GB)",17999.0,4.4,14.0,Motorola
+111,"Google Pixel 8a (Porcelain, 128 GB)",37999.0,4.3,28.0,Google
+114,"MOTOROLA g35 5G (Leaf Green, 128 GB)",9999.0,4.2,20.0,MOTOROLA
+115,"SAMSUNG Galaxy M35 5G (Thunder Grey, 128 GB)",14545.0,4.4,40.0,SAMSUNG
+117,"SAMSUNG Galaxy F16 5G (Vibing Blue, 128 GB)",14499.0,4.3,23.0,SAMSUNG
+118,"OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB)",17005.0,4.4,19.0,OnePlus
+119,"vivo T3 Ultra (Frost Green, 128 GB)",29999.0,4.5,16.0,vivo
+120,"realme P3x 5G (Lunar Silver, 128 GB)",13999.0,4.5,17.0,realme
+121,"realme P3x 5G (Lunar Silver, 128 GB)",14999.0,4.5,16.0,realme
+124,"vivo T3 Ultra (Lunar Gray, 256 GB)",33999.0,4.5,15.0,vivo
+128,"Motorola g64 5G (Berry Red, 128 GB)",13999.0,4.3,22.0,Motorola
+129,"REDMI A4 5G only on Jio SIM (Starry Black, 64 GB)",8958.0,4.3,18.0,REDMI
+131,"vivo T3 Ultra (Lunar Gray, 128 GB)",29999.0,4.5,16.0,vivo
+134,"vivo T3 Ultra (Frost Green, 256 GB)",31999.0,4.5,15.0,vivo
+135,"Apple iPhone 15 Plus (Green, 128 GB)",68499.0,4.6,14.0,Apple
+138,"Motorola g64 5G (Berry Red, 256 GB)",15999.0,4.2,20.0,Motorola
+139,"Motorola G85 5G (Urban Grey, 256 GB)",19999.0,4.4,13.0,Motorola
+140,"REDMI A4 5G only on Jio SIM (Starry Black, 128 GB)",9710.0,4.3,19.0,REDMI
+141,"realme P1 5G (Peacock Green, 256 GB)",15999.0,4.4,30.0,realme
+144,Kechaoda A26_rose gold,898.0,3.9,40.0,Kechaoda
+145,"realme P1 5G (Peacock Green, 128 GB)",14999.0,4.4,31.0,realme
+148,"IQOO Z9s 5G (Onyx Green, 128 GB)",19663.0,4.4,24.0,IQOO
+149,"realme 70 5G (Turbo Yellow, 128 GB)",15490.0,4.4,26.0,realme
+150,Kechaoda A27,898.0,4,40.0,Kechaoda
+151,"vivo T3 Ultra (Frost Green, 256 GB)",33999.0,4.5,15.0,vivo
+154,Kechaoda A27,920.0,4,39.0,Kechaoda
+155,"Infinix Note 40X 5G (Lime Green, 256 GB)",12999.0,4.2,35.0,Infinix
+159,"realme 14 Pro 5G (Pearl White, 256 GB)",26999.0,4.4,10.0,realme
+160,"realme P1 5G (Feather Blue, 128 GB)",14999.0,4.4,31.0,realme
+161,"vivo T3x 5G (Crimson Bliss, 128 GB)",13999.0,4.5,26.0,vivo
+165,Kechaoda A27,894.0,4,40.0,Kechaoda
+168,"vivo T3x 5G (Sapphire Blue, 128 GB)",15499.0,4.4,24.0,vivo
+169,"vivo T3x 5G (Crimson Bliss, 128 GB)",15499.0,4.4,24.0,vivo
+170,"Infinix Hot 50 5G (Vibrant Blue, 128 GB)",10999.0,4.4,26.0,Infinix
+171,"Infinix Hot 50 5G (Sleek Black, 128 GB)",10999.0,4.4,26.0,Infinix
+174,"Infinix Hot 50 5G (Sleek Black, 128 GB)",9499.0,4.3,26.0,Infinix
+175,"Infinix Hot 50 5G (Sage Green, 128 GB)",9499.0,4.3,26.0,Infinix
+178,"realme Narzo N61 (Voyage Blue, 128 GB)",8948.0,4.2,18.0,realme
+179,"vivo T3x 5G (Celestial Green, 128 GB)",15499.0,4.4,24.0,vivo
+181,"REDMI A3X (Ocean Green, 64 GB)",6499.0,4.2,27.0,REDMI
+184,"realme 14x 5G (Golden Glow, 128 GB)",15999.0,4.4,11.0,realme
+185,"vivo T3x 5G (Celestial Green, 128 GB)",12499.0,4.4,28.0,vivo
+188,Kechaoda K115,997.0,4.1,33.0,Kechaoda
+189,"vivo T3x 5G (Sapphire Blue, 128 GB)",12499.0,4.4,28.0,vivo
+190,"realme 70 TURBO 5G (Turbo Green, 128 GB)",14177.0,4.3,29.0,realme
+191,"OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)",17052.0,4.4,18.0,OnePlus
+195,"vivo V50 5G (Titanium Grey, 256 GB)",36999.0,4.5,13.0,vivo
+198,"vivo V50 5G (Titanium Grey, 128 GB)",34999.0,4.5,12.0,vivo
+199,"realme P1 5G (Feather Blue, 256 GB)",15999.0,4.4,30.0,realme
+200,Kechaoda K115,998.0,4.1,33.0,Kechaoda
+204,Kechaoda K115,994.0,4.1,33.0,Kechaoda
+209,"realme GT 6 (Razor Green, 256 GB)",37999.0,4.5,19.0,realme
+210,"realme GT 6 (Fluid Silver, 256 GB)",37999.0,4.5,19.0,realme
+211,"SAMSUNG S24 FE 5G (Mint, 256 GB)",47999.0,4.5,27.0,SAMSUNG
+214,"SAMSUNG Galaxy S24 FE 5G (Blue, 256 GB)",47999.0,4.4,27.0,SAMSUNG
+215,LAVA Keypad Mobile|1000 mAh Battery|Expandable Storage 32GB,980.0,4.1,29.0,LAVA
+218,"realme 14 Pro 5G (Suede Grey, 128 GB)",24999.0,4.4,10.0,realme
+219,"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1204.0,4,13.0,Nokia
+220,"realme 14x 5G (Crystal Black, 128 GB)",14999.0,4.3,11.0,realme
+221,Nokia 105 Classic without Charger,1009.0,3.9,19.0,Nokia
+224,"realme 14 Pro 5G (Pearl White, 128 GB)",24999.0,4.4,10.0,realme
+225,"realme 14 Pro 5G (Jaipur Pink, 128 GB)",24999.0,4.4,10.0,realme
+228,"realme 14x 5G (Jewel Red, 128 GB)",14999.0,4.3,11.0,realme
+229,"REDMI 13c 5G (Startrail Green, 128 GB)",10899.0,4.3,22.0,REDMI
+230,"Infinix Hot 50 5G (Dreamy Purple, 128 GB)",10999.0,4.4,26.0,Infinix
+231,"SAMSUNG A05 (Silver, 64 GB)",9999.0,4.1,20.0,SAMSUNG
+234,"IQOO Z9x (Tornado Green, 128 GB)",11297.0,4.2,37.0,IQOO
+238,"Apple 15 Plus (Blue, 128 GB)",68499.0,4.6,14.0,Apple
+240,"IQOO Z9x (Storm Grey, 128 GB)",11315.0,4.2,37.0,IQOO
+244,"Infinix Hot 50 5G (Sage Green, 128 GB)",10999.0,4.4,26.0,Infinix
+248,"REDMI 13 5G (Black Diamond, 128 GB)",13999.0,4.3,30.0,REDMI
+249,"POCO X7 Pro 5G (Obsidian Black, 256 GB)",25999.0,4.4,18.0,POCO
+250,"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",21999.0,4.1,24.0,SAMSUNG
+251,LAVA Keypad Mobile|1.8 inch Big Display|Auto Call Recording|Wireless FM,910.0,4.1,24.0,LAVA
+254,"vivo V50 5G (Starry Night, 256 GB)",36999.0,4.5,13.0,vivo
+261,"POCO C61 (Mystical Green, 64 GB)",6390.0,4.2,28.0,POCO
+263,"SAMSUNG Galaxy F16 5G (Glam Green, 128 GB)",12999.0,4.2,25.0,SAMSUNG
+264,"realme C63 5G Charger in the Box (Starry Gold, 128 GB)",12999.0,4.5,13.0,realme
+269,"realme C63 5G Charger in the Box (Starry Gold, 128 GB)",10999.0,4.5,21.0,realme
+270,Kechaoda K115,995.0,4.1,33.0,Kechaoda
+271,Kechaoda A26_Pink,920.0,4,38.0,Kechaoda
+274,"Infinix SMART 8 HD (Crystal Green, 64 GB)",6699.0,4.3,16.0,Infinix
+275,"Infinix SMART 8 HD (Shiny Gold, 64 GB)",6699.0,4.3,16.0,Infinix
+278,"realme GT 6 (Fluid Silver, 512 GB)",37999.0,4.5,26.0,realme
+279,"realme GT 6 (Razor Green, 512 GB)",39999.0,4.5,23.0,realme
+285,Jio PRIMA2 4G,3199.0,4,20.0,Jio
+288,"Infinix Hot 50 5G (Vibrant Blue, 128 GB)",9499.0,4.3,26.0,Infinix
+289,"SAMSUNG S24 FE 5G (Blue, 128 GB)",41999.0,4.5,30.0,SAMSUNG
+290,"SAMSUNG Galaxy S24 FE 5G (Blue, 128 GB)",41693.0,4.4,30.0,SAMSUNG
+291,"SAMSUNG Galaxy S24 FE 5G (Graphite, 128 GB)",41999.0,4.4,30.0,SAMSUNG
+294,"POCO X7 Pro 5G (Yellow, 256 GB)",27999.0,4.4,17.0,POCO
+298,"realme C63 5G Charger in the Box (Forest Green, 128 GB)",10999.0,4.5,21.0,realme
+300,"POCO M6 5G - Locked with Airtel Prepaid (Orion Blue, 128 GB)",10499.0,4.2,19.0,POCO
+301,"Infinix Note 40 Pro 5G (Racing Grey, 256 GB)",18999.0,4.2,32.0,Infinix
+304,"REDMI A4 (Sparkle Purple, 128 GB)",9696.0,4.3,19.0,REDMI
+305,"realme 14x 5G (Golden Glow, 128 GB)",14999.0,4.3,11.0,realme
+308,"REDMI 13C 5G (Starlight Black, 128 GB)",8999.0,4.3,35.0,REDMI
+309,"POCO M7 Pro 5G (Lavender Frost, 256 GB)",15999.0,4.2,23.0,POCO
+310,"SAMSUNG Galxy S24 FE 5G (Mint, 128 GB)",41999.0,4.5,30.0,SAMSUNG
+311,"REDMI 13C 5G (Startrail Green, 128 GB)",8999.0,4.3,35.0,REDMI
+314,"POCO X7 5G (Yellow, 256 GB)",20999.0,4.3,25.0,POCO
+315,"realme 70 TURBO 5G (Turbo Green, 128 GB)",15447.0,4.4,26.0,realme
+320,"realme P3 5G (Space Silver, 256 GB)",19999.0,4.4,13.0,realme
+321,"realme NARZO 70X 5G (Ice Blue, 128 GB)",13565.0,4.3,28.0,realme
+324,"POCO F6 5G (Titanium, 256 GB)",24999.0,4.3,30.0,POCO
+325,"OnePlus Nord 4 5G (Mercurial Silver, 256 GB)",27969.0,4.5,15.0,OnePlus
+328,"OnePlus 4 5G (Obsidian Midnight, 256 GB)",28098.0,4.5,14.0,OnePlus
+329,"realme C63 5G Charger in the Box (Forest Green, 128 GB)",10999.0,4.4,15.0,realme
+335,"realme NARZO N65 5G (DEEP GREEN, 128 GB)",11777.0,4.3,21.0,realme
+338,"REDMI 14C 5G (Stargaze Black, 128 GB)",10999.0,4.2,21.0,REDMI
+339,Kechaoda A 27,899.0,3.9,58.0,Kechaoda
+341,"REDMI 14C 5G (Starlight Blue, 128 GB)",10999.0,4.2,21.0,REDMI
+344,itel Ace 3 Shine,899.0,4,28.0,itel
+345,"SAMSUNG Galaxy A35 5G (Awesome Lilac, 256 GB)",28999.0,4.3,21.0,SAMSUNG
+348,"POCO M7 Pro 5G (Olive Twilight, 128 GB)",13999.0,4.3,26.0,POCO
+349,"realme C63 5G Charger in the Box (Starry Gold, 128 GB)",10999.0,4.4,15.0,realme
+351,"OnePlus Nord 4 5G (Mercurial Silver, 256 GB)",29990.0,4.5,16.0,OnePlus
+354,"vivo V40e 5G (Royal Bronze, 128 GB)",26999.0,4.4,20.0,vivo
+355,"vivo V40e 5G (Royal Bronze, 256 GB)",28999.0,4.4,19.0,vivo
+358,"realme 13 Pro+ 5G (Purple, 256 GB)",26999.0,4.4,30.0,realme
+359,"vivo V40e 5G (Mint Green, 256 GB)",28999.0,4.4,19.0,vivo
+361,"vivo V50 5G (Starry Night, 512 GB)",40999.0,4.5,16.0,vivo
+364,"realme 13 Pro 5G (Emerald Green, 128 GB)",21999.0,4.4,24.0,realme
+365,"POCO X7 Pro 5G (Yellow, 256 GB)",25999.0,4.4,18.0,POCO
+368,"IQOO Z9 LITE 5G (Aqua Flow, 128 GB)",12449.0,4.3,19.0,IQOO
+369,"IQOO Z9 Lite 5G (Mocha Brown, 128 GB)",10489.0,4.2,27.0,IQOO
+371,"SAMSUNG Galaxy A35 5G (Awesome Navy, 256 GB)",28999.0,4.3,21.0,SAMSUNG
+374,"realme 13 Pro+ 5G (Emerald Green, 256 GB)",26999.0,4.4,30.0,realme
+375,"POCO F6 5G (Titanium, 256 GB)",22999.0,4.3,32.0,POCO
+378,"realme 13 Pro 5G (Emerald Green, 256 GB)",23999.0,4.4,22.0,realme
+379,"realme 13 Pro 5G (Monet Gold, 128 GB)",21999.0,4.4,24.0,realme
+380,"realme 70 TURBO 5G (Turbo Purple, 128 GB)",14362.0,4.3,28.0,realme
+381,"realme GT 6 (Fluid Silver, 256 GB)",33999.0,4.5,22.0,realme
+384,"POCO X7 5G (Yellow, 128 GB)",18999.0,4.3,24.0,POCO
+385,"SAMSUNG A36 5G (Awesome Black, 256 GB)",32999.0,4.3,15.0,SAMSUNG
+388,"REDMI A3 (Olive Green, 128 GB)",8549.0,4.1,28.0,REDMI
+389,"vivo Y18t (Space Black, 128 GB)",8571.0,4.2,38.0,vivo
+390,"OnePlus 12R (Iron Gray, 256 GB)",37290.0,4.5,13.0,OnePlus
+391,"SAMSUNG Galaxy A35 5G (Awesome Lilac, 128 GB)",25999.0,4.3,23.0,SAMSUNG
+394,"SAMSUNG Galaxy A16 5G (Light Green, 128 GB)",16999.0,4.2,20.0,SAMSUNG
+395,"IQOO Z9s Pro 5G (Luxe Marble, 128 GB)",24350.0,4.5,18.0,IQOO
+399,"realme N65 5G (AMBER GOLD, 128 GB)",11872.0,4,25.0,realme
+400,"realme 13+ 5G (Victory Gold, 256 GB)",26999.0,4.3,10.0,realme
+401,"realme 12 Pro+ 5G (Navigator Beige, 256 GB)",22999.0,4.4,36.0,realme
+404,"realme 12 Pro+ 5G (Submarine Blue, 256 GB)",22999.0,4.4,36.0,realme
+405,"realme 13+ 5G (Speed Green, 256 GB)",26999.0,4.3,10.0,realme
+408,Nokia 220 DS 4G,3120.0,4,30.0,Nokia
+409,"SAMSUNG Galaxy A16 5G (Gold, 256 GB)",19999.0,4.2,18.0,SAMSUNG
+410,"POCO X6 Pro 5G (Racing Grey, 256 GB)",19999.0,4.3,35.0,POCO
+411,"SAMSUNG Galaxy A16 5G (Blue Black, 256 GB)",19999.0,4.2,18.0,SAMSUNG
+414,"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Nebula Black, 32 GB)",5700.0,4,16.0,itel
+415,itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice,1249.0,4.1,30.0,itel
+418,"realme 13 Pro+ 5G (Monet Gold, 256 GB)",25999.0,4.4,29.0,realme
+419,"realme 13 Pro+ 5G (Monet Purple, 256 GB)",25999.0,4.4,29.0,realme
+420,"IQOO Z9S PRO 5G (Luxe Marble, 128 GB)",23448.0,4.5,21.0,IQOO
+421,"realme 13 Pro 5G (Monet Purple, 128 GB)",21999.0,4.4,24.0,realme
+424,"realme 13 Pro+ 5G (Emerald Green, 256 GB)",25999.0,4.4,29.0,realme
+425,"REDMI A3 (Olive Green, 128 GB)",7999.0,4.2,27.0,REDMI
+428,LAVA Hero Shakti Keypad Mobile|1.8 inch Big Display|Auto Call Recording|Wireless FM,910.0,4.2,24.0,LAVA
+429,"LAVA Blaze 3 5G (Glass Blue, 128 GB)",10684.0,4.2,17.0,LAVA
+430,"realme 13+ 5G (Dark Purple, 128 GB)",22999.0,4.4,11.0,realme
+431,"POCO X7 5G (Cosmic Silver, 128 GB)",18999.0,4.3,24.0,POCO
+434,Kechaoda K115,988.0,4.1,34.0,Kechaoda
+435,"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)",6249.0,4.2,37.0,SAMSUNG
+439,"POCO F6 5G (Black, 256 GB)",24999.0,4.3,30.0,POCO
+440,"SAMSUNG Galaxy S24 FE 5G (Graphite, 256 GB)",47416.0,4.4,28.0,SAMSUNG
+441,"SAMSUNG Galaxy S24 FE 5G (Blue, 256 GB)",47410.0,4.4,28.0,SAMSUNG
+444,"POCO C61  - Locked with Airtel Prepaid (Diamond Dust Black, 64 GB)",5399.0,4.2,40.0,POCO
+445,"LAVA Blaze 3 5G (Glass Gold, 128 GB)",11449.0,4.2,11.0,LAVA
+448,"Tecno Go 1 (Magic Skin Green, 64 GB)",6899.0,4.2,19.0,Tecno
+449,"vivo Y300 5G (Phantom Purple, 256 GB)",23999.0,4.4,17.0,vivo
+450,"REDMI 13c 5G (Startrail Silver, 128 GB)",11288.0,4.3,29.0,REDMI
+451,"SAMSUNG M15 Prime Edition (Celestial Blue, 128 GB)",13484.0,4.4,20.0,SAMSUNG
+454,"realme 13 Pro 5G (Monet Gold, 512 GB)",26999.0,4.3,22.0,realme
+455,"REDMI Note 13 Pro 5G (Midnight Black, 256 GB)",23999.0,4.3,22.0,REDMI
+458,"SAMSUNG S23 5G (Green, 128 GB)",39999.0,4.6,55.0,SAMSUNG
+459,"SAMSUNG galaxy M15 5G (Celestrial Blue, 128 GB)",13295.0,4.3,21.0,SAMSUNG
+460,"itel A50 (Shimmer Gold, 64 GB)",6399.0,4.3,11.0,itel
+461,"SAMSUNG Galaxy A16 5G (Light Green, 128 GB)",14790.0,4.1,26.0,SAMSUNG
+464,"IQOO Z9 5G (Graphene Blue, 256 GB)",20000.0,4.4,25.0,IQOO
+465,"OnePlus 12R (Iron Gray, 128 GB)",34490.0,4.5,13.0,OnePlus
+468,Nokia 235 4G DS,3995.0,4,20.0,Nokia
+469,"vivo Y18i (Gem Green, 64 GB)",7800.0,4.2,34.0,vivo
+470,"POCO F6 5G (Black, 512 GB)",26999.0,4.3,28.0,POCO
+471,"POCO X7 5G (Cosmic Silver, 256 GB)",20999.0,4.3,25.0,POCO
+474,"vivo Y19e (Majestic Green, 64 GB)",7999.0,4.8,33.0,vivo
+475,"Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",1700.0,4,22.0,Nokia
+478,"SAMSUNG Galaxy A56 5G (Awesome Olive, 256 GB)",41999.0,4.8,14.0,SAMSUNG
+479,Nokia 106,1498.0,3.9,11.0,Nokia
+480,"vivo Y18i (Space Black, 64 GB)",7999.0,4.2,33.0,vivo
+481,"REDMI 14C 5G (Stardust Purple, 64 GB)",9999.0,4.2,23.0,REDMI
+484,"REDMI 13c 5G (Starlight Black, 128 GB)",11179.0,4.3,30.0,REDMI
+488,"POCO X7 Pro 5G (Nebula Green, 256 GB)",27999.0,4.4,17.0,POCO
+491,"SAMSUNG Galaxy A14 5G (Black, 128 GB)",10999.0,4.2,29.0,SAMSUNG
+494,"POCO X7 Pro 5G (Nebula Green, 256 GB)",25999.0,4.4,18.0,POCO
+495,"SAMSUNG Galaxy A05 (Black, 128 GB)",12499.0,4.2,16.0,SAMSUNG
+498,"realme GT 6T 5G (Razor Green, 256 GB)",27049.0,4.5,24.0,realme
+499,"realme P3 Ultra 5G (Neptune Blue, 256 GB)",27999.0,4.5,17.0,realme
+500,Jio V4,1049.0,3.8,47.0,Jio
+504,MOTOROLA A50V Dual Sim Keypad Phone|1750 mAh Battery|1.8inch Display|Expandable Upto 32GB,1498.0,4.1,11.0,MOTOROLA
+505,"SAMSUNG Galaxy S24 FE 5G (Mint, 256 GB)",47439.0,4.4,28.0,SAMSUNG
+508,"vivo Y58 5G (Himalayan Blue, 128 GB)",16319.0,4.4,32.0,vivo
+509,"realme C63 (Leather Blue, 64 GB)",8499.0,4.3,15.0,realme
+510,"vivo Y300 5G (Titanium Silver, 128 GB)",21999.0,4.4,18.0,vivo
+511,"vivo Y300 5G (Phantom Purple, 128 GB)",21999.0,4.4,18.0,vivo
+514,"vivo Y300 5G (Emerald Green, 128 GB)",21999.0,4.4,18.0,vivo
+515,"OPPO A3x 5G (Starlight White, 128 GB)",12499.0,4.2,21.0,OPPO
+518,"REDMI Note 14 5G (Phantom Purple, 128 GB)",18192.0,4.2,20.0,REDMI
+519,MOTOROLA A50V Dual Sim Keypad Phone|1750 mAh Battery|1.8inch Display|Expandable Upto 32GB,1399.0,4.1,17.0,MOTOROLA
+520,"REDMI Note 14 5G (Mystique White, 128 GB)",18089.0,4.2,21.0,REDMI
+521,"REDMI Note 14 5G (Phantom Purple, 128 GB)",17272.0,4.4,21.0,REDMI
+524,"OnePlus 12R (Iron Gray, 128 GB)",35999.0,4.5,10.0,OnePlus
+525,"OnePlus 12R (Iron Gray, 256 GB)",37488.0,4.5,12.0,OnePlus
+528,"SAMSUNG Galaxy M15 5G (Blue Topaz, 128 GB)",12590.0,4.2,21.0,SAMSUNG
+529,"Xiaomi 14 CIVI (Shadow Black, 512 GB)",43999.0,4.3,26.0,Xiaomi
+531,"REDMI 12 (Jade Black, 128 GB)",10990.0,4.2,31.0,REDMI
+534,"realme 13 Pro 5G (Monet Gold, 256 GB)",23999.0,4.4,22.0,realme
+535,"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 256 GB)",83990.0,4.6,44.0,SAMSUNG
+538,"OPPO A3 Pro 5G (Moonlight Purple, 128 GB)",16999.0,4.3,19.0,OPPO
+539,"OPPO A3 Pro 5G (Starry Black, 256 GB)",18999.0,4.3,17.0,OPPO
+540,"OPPO A3 Pro 5G (Starry Black, 128 GB)",16999.0,4.3,19.0,OPPO
+541,"realme C65 5G (Glowing Black, 128 GB)",10999.0,4.2,26.0,realme
+544,"Google Pixel 7a (Sea, 128 GB)",31999.0,4.1,27.0,Google
+545,"OnePlus Nord 4 5G (Obsidian Midnight, 256 GB)",30299.0,4.5,15.0,OnePlus
+548,"REDMI A3 (Midnight Black, 128 GB)",8899.0,4.1,25.0,REDMI
+549,"REDMI 13C 5G (Startrail Silver, 128 GB)",11299.0,4.3,29.0,REDMI
+550,"SAMSUNG Galaxy Z Fold5 (Icy Blue, 512 GB)",103990.0,4.5,38.0,SAMSUNG
+551,"SAMSUNG Galaxy A05 (Black, 64 GB)",8499.0,4.3,32.0,SAMSUNG
+554,itel Power 120 | 2 inch Big Display | 2500 mAh Battery | Kingvoice,1244.0,4.2,22.0,itel
+555,"Nokia 2660 Flip 4G Volte Blue keypad Mobile with Dual Sim & Screen, MP3 Player",4299.0,4.1,27.0,Nokia
+558,"POCO M6 5G (Orion Blue, 64 GB)",8499.0,4.2,29.0,POCO
+559,"Tecno Spark 30C 5G (Azure Sky, 64 GB)",9999.0,4.3,16.0,Tecno
+560,"REDMI Note 14 5G (Black, 128 GB)",17981.0,4.2,21.0,REDMI
+561,"IQOO Z9 5G (Brushed Green, 256 GB)",19200.0,4.4,28.0,IQOO
+564,"Google Pixel 7 (Obsidian, 128 GB)",33999.0,4.3,43.0,Google
+565,itel Power 120 | 2 inch Big Display | 2500 mAh Battery | Kingvoice,1249.0,4.2,21.0,itel
+568,"itel A50 (Cyan Blue, 64 GB)",6123.0,4.3,17.0,itel
+569,"realme P3 Pro 5G (Saturn Brown, 256 GB)",26999.0,4.4,18.0,realme
+571,"vivo Y29 5G (Diamond Black, 256 GB)",18999.0,4.3,26.0,vivo
+575,Kechaoda K33,998.0,4,54.0,Kechaoda
+578,"SAMSUNG Galaxy A06 (Black, 64 GB)",9999.0,4.3,13.0,SAMSUNG
+579,Snexian Bold V1,2298.0,4.2,23.0,Snexian
+580,"SAMSUNG Galaxy A16 5G (Gold, 128 GB)",15349.0,4.2,28.0,SAMSUNG
+581,"Motorola Edge 50 Pro 5G with 125W Charger (Luxe Lavender, 256 GB)",29999.0,4.4,28.0,Motorola
+584,Snexian Bold V1,2280.0,4.2,23.0,Snexian
+585,"POCO M6 5G (Orion Blue, 128 GB)",10499.0,4.3,25.0,POCO
+588,"vivo Y29 5G (Diamond Black, 128 GB)",13999.0,4.3,15.0,vivo
+589,LAVA A1 josh Bol,980.0,4.1,29.0,LAVA
+590,"SAMSUNG S24 Ultra 5G (Titanium Gray, 512 GB)",129999.0,4.6,10.0,SAMSUNG
+591,"SAMSUNG A23 5G (Silver, 128 GB)",16280.0,4,47.0,SAMSUNG
+594,itel it2165s,988.0,4.1,26.0,itel
+595,"realme 12x 5G (Twilight Purple, 128 GB)",12499.0,4.4,30.0,realme
+598,"SAMSUNG Galaxy M14 4G (Saphire Blue, 64 GB)",8841.0,4.1,36.0,SAMSUNG
+599,itel it2165s,996.0,4.1,26.0,itel
+600,"SAMSUNG Galaxy Z Fold5 (Icy Blue, 1 TB)",119999.0,4.5,36.0,SAMSUNG
+601,"realme P3 Pro 5G (Nebula Glow, 128 GB)",23999.0,4.4,17.0,realme
+604,"realme P3 Pro 5G (Galaxy Purple, 256 GB)",24999.0,4.4,19.0,realme
+605,"realme P3 Pro 5G (Nebula Glow, 256 GB)",24999.0,4.4,19.0,realme
+608,"Tecno Pova 6 Neo (Azure Sky, 256 GB)",13999.0,4.2,17.0,Tecno
+609,"vivo Y29 5G (Titanium Gold, 256 GB)",18999.0,4.3,26.0,vivo
+610,"Tecno Pova 6 Neo (Midnight Shadow, 256 GB)",13999.0,4.2,17.0,Tecno
+611,"Tecno Pova 6 Neo (Aurora Cloud, 256 GB)",13999.0,4.2,17.0,Tecno
+614,"Infinix SMART 8 (Shiny Gold, 128 GB)",8999.0,4.3,18.0,Infinix
+615,"Tecno Spark 30C 5G (Aurora Cloud, 64 GB)",9999.0,4.3,16.0,Tecno
+619,"realme GT 6T 5G (Fluid Silver, 256 GB)",26875.0,4.5,25.0,realme
+620,"SAMSUNG Galaxy A14 5G (Dark Red, 64 GB)",9999.0,4.2,45.0,SAMSUNG
+621,"IQOO Neo 10R 5G (Raging Blue, 128 GB)",27975.0,4.6,12.0,IQOO
+624,"POCO M6 5G (Polaris Green, 64 GB)",8499.0,4.2,29.0,POCO
+625,"vivo Y29 5G (Titanium Gold, 128 GB)",16999.0,4.3,22.0,vivo
+630,"itel it5027 6.1cm Screen,1200mAh Battery Wireless FM Radio with Recording,KingVoice",1099.0,4,26.0,itel
+635,"vivo Y29 5G (Glacier Blue, 128 GB)",13999.0,4.3,15.0,vivo
+638,"Infinix SMART 8 (Rainbow Blue, 64 GB)",7299.0,4.3,18.0,Infinix
+639,"SAMSUNG Galaxy A55 5G (Awesome Iceblue, 256 GB)",36999.0,4.4,19.0,SAMSUNG
+640,"realme GT 6T 5G (Fluid Silver, 128 GB)",25699.0,4.5,24.0,realme
+641,"Xiaomi 14 CIVI (Cruise Blue, 512 GB)",43999.0,4.3,26.0,Xiaomi
+644,"itel 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Crystal Blue, 32 GB)",5520.0,4.1,18.0,itel
+645,itel Keypad Mobile | 2.4 inch Display| Type C Charging,1099.0,4.1,33.0,itel
+648,Snexian BOLD 888,999.0,3.7,33.0,Snexian
+649,Kechaoda K28,1199.0,4,20.0,Kechaoda
+650,Nokia 105,1250.0,3.4,26.0,Nokia
+651,"LAVA A3 Torch DS Keypad Phone|1750mAh Big Battery|1.8"" Large Display|Quad Strip Torch",1238.0,4.2,24.0,LAVA
+654,"REDMI Note 14 Pro+ 5G (Phantom Purple, 512 GB)",35999.0,4.3,10.0,REDMI
+655,"Nokia 106 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1259.0,3.3,33.0,Nokia
+658,"Motorola e13 (Aurora Green, 64 GB)",6999.0,4.1,36.0,Motorola
+660,"REDMI Note 13 5G (Stealth Black, 128 GB)",14499.0,4.2,30.0,REDMI
+661,hmd 105 Dual Sim,976.0,4.1,34.0,hmd
+664,"vivo T2x 5G (Aurora Gold, 128 GB)",12999.0,4.4,31.0,vivo
+665,"vivo T2x 5G (Black Gladiator, 128 GB)",12999.0,4.4,31.0,vivo
+669,"POCO M6 5G (Polaris Green, 128 GB)",11499.0,4.3,17.0,POCO
+670,"realme 12 Pro+ 5G (Submarine Blue, 128 GB)",21999.0,4.4,37.0,realme
+674,"SAMSUNG Galaxy A55 5G (Awesome Navy, 128 GB)",33999.0,4.4,20.0,SAMSUNG
+675,"REDMI Note 14 Pro 5G (Ivy Green, 256 GB)",26999.0,4.4,12.0,REDMI
+678,"REDMI Note 14 Pro 5G (Titan Black, 256 GB)",26999.0,4.4,12.0,REDMI
+679,"vivo Y29 5G (Glacier Blue, 128 GB)",15499.0,4.4,13.0,vivo
+680,KARBONN K9 Yuva Keypad Mobile| 2500 mAh Battery|2MP Camera|Expandable Memory up to 32GB,1299.0,3.8,10.0,KARBONN
+681,"SAMSUNG Galaxy A16 5G (Gold, 128 GB)",14145.0,4.1,29.0,SAMSUNG
+684,"SAMSUNG Galaxy A16 5G (Blue Black, 128 GB)",15499.0,4.1,22.0,SAMSUNG
+685,"SAMSUNG Galaxy F55 5G (Raisin Black, 256 GB)",26999.0,4.1,22.0,SAMSUNG
+688,"SAMSUNG Galaxy M15 5G (Stone Grey, 128 GB)",12500.0,4.2,21.0,SAMSUNG
+689,"SAMSUNG Galaxy A16 5G (Gold, 128 GB)",15499.0,4.2,27.0,SAMSUNG
+691,"vivo Y300 5G (Emerald Green, 256 GB)",23999.0,4.4,17.0,vivo
+694,"Nokia 110 Dual Sim, Keypad Mobile with Wireless FM Radio, Bluetooth and Rear Camera",1445.0,3.8,31.0,Nokia
+695,"vivo Y300 5G (Titanium Silver, 256 GB)",23999.0,4.4,17.0,vivo
+698,itel Power 450 | 2.4 inch Big Display | 2500 mAh Battery | Type C Charging,1309.0,4.1,31.0,itel
+699,"Xiaomi 14 CIVI (Matcha Green, 256 GB)",39999.0,4.3,27.0,Xiaomi
+701,"Tecno Spark 30C 5G (Midnight Shadow, 128 GB)",10499.0,4.3,19.0,Tecno
+704,Kechaoda A27,889.0,4,59.0,Kechaoda
+705,"POCO M6 5G (Galactic Black, 64 GB)",8499.0,4.2,29.0,POCO
+708,"OPPO F27 Pro+ (Dusk Pink, 128 GB)",25999.0,4.3,21.0,OPPO
+709,"realme P3 Pro 5G (Saturn Brown, 256 GB)",24999.0,4.4,19.0,realme
+710,"OnePlus 13 (Arctic Dawn, 256 GB)",64720.0,4.6,11.0,OnePlus
+711,"POCO M6 5G - Locked with Airtel Prepaid (Polaris Green, 128 GB)",10499.0,4.2,19.0,POCO
+714,"REDMI Note 13 Pro 5G (Scarlet Red, 128 GB)",19400.0,4.3,33.0,REDMI
+715,"realme P1 Pro 5G (Parrot Blue, 256 GB)",16999.0,4.5,34.0,realme
+718,"SAMSUNG Galaxy S23 5G (Green, 256 GB)",41999.0,4.6,56.0,SAMSUNG
+721,"vivo V30 5G (Andaman Blue, 128 GB)",29999.0,4.5,23.0,vivo
+724,"realme 13+ 5G (Speed Green, 256 GB)",24999.0,4.4,10.0,realme
+725,Kechaoda A26_black,940.0,4,37.0,Kechaoda
+728,"realme 13+ 5G (Victory Gold, 256 GB)",24999.0,4.4,10.0,realme
+729,"SAMSUNG Galaxy A04 (Black, 64 GB)",7999.0,3.9,46.0,SAMSUNG
+730,"REDMI Note 13 5G (Stealth Black, 256 GB)",17999.0,4.2,21.0,REDMI
+731,"SAMSUNG Glaxy A16 5G (Light Green, 256 GB)",19999.0,4,18.0,SAMSUNG
+734,"REDMI Note 14 Pro+ 5G (Titan Black, 128 GB)",30999.0,4.3,11.0,REDMI
+735,"SAMSUNG Galaxy Z Flip5 (Cream, 512 GB)",64999.0,4.4,42.0,SAMSUNG
+738,Kechaoda K9,1125.0,4.1,29.0,Kechaoda
+739,"REDMI Note 13 Pro+ 5G (Fusion Purple, 512 GB)",26499.0,4.2,30.0,REDMI
+740,"Xiaomi 14 CIVI (Cruise Blue, 256 GB)",39999.0,4.3,27.0,Xiaomi
+741,"SAMSUNG Galaxy A06 (Light Blue, 64 GB)",9999.0,4.3,13.0,SAMSUNG
+744,"REDMI Note 13 Pro 5G (Midnight Black, 256 GB)",21999.0,4.3,29.0,REDMI
+745,"SAMSUNG Galaxy A16 5G (Light Green, 128 GB)",15400.0,4.2,28.0,SAMSUNG
+748,"SAMSUNG Galaxy A16 5G (Gold, 128 GB)",16499.0,4.2,23.0,SAMSUNG
+749,"OPPO F27 5G (Emerald Green, 128 GB)",20999.0,4.2,22.0,OPPO
+750,KARBONN Jumbo K9,1229.0,4,34.0,KARBONN
+751,"REDMI Note 14 Pro+ 5G (Spectre Blue, 256 GB)",32999.0,4.3,10.0,REDMI
+754,"Infinix Zero 40 5G (Violet Garden, 256 GB)",25999.0,4.2,31.0,Infinix
+755,"REDMI 13C (Starshine Green, 128 GB)",8999.0,4.3,25.0,REDMI
+758,"vivo V30 Pro 5G (Andaman Blue, 256 GB)",34999.0,4.5,25.0,vivo
+759,"itel P55 (Moonlit Black, 128 GB)",8699.0,4.2,13.0,itel
+760,"POCO C65 (Pastel Blue, 128 GB)",8499.0,4.3,22.0,POCO
+761,"REDMI Note 13 Pro+ 5G (Fusion Purple, 256 GB)",24842.0,4.3,26.0,REDMI
+764,"vivo V40 5G (Ganges Blue, 256 GB)",36999.0,4.5,13.0,vivo
+765,"OnePlus 10 Pro 5G (Emerald Forest, 128 GB)",34990.0,4.2,47.0,OnePlus
+768,"POCO M6 Plus 5G (Misty Lavender, 128 GB)",10499.0,4.2,34.0,POCO
+769,"realme Narzo 70 Pro 5G (Green, Glass Green, 128 GB)",19749.0,4.4,21.0,realme
+778,"OPPO A79 5G (Glowing Green, 128 GB)",17499.0,4.3,23.0,OPPO
+779,"SAMSUNG Galaxy A16 5G (Blue Black, 128 GB)",14589.0,4.1,27.0,SAMSUNG
+780,"REDMI Note 14 Pro+ 5G (Titan Black, 256 GB)",32999.0,4.3,10.0,REDMI
+781,"OPPO F27 Pro+ (Midnight Navy, 128 GB)",25999.0,4.3,21.0,OPPO
+784,"SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",13499.0,4.2,20.0,SAMSUNG
+785,Jmax Ultra,699.0,4,53.0,Jmax
+789,"realme C65 5G (Glowing Black, 128 GB)",11899.0,4.3,25.0,realme
+790,"SAMSUNG Galaxy Z Fold5 (Icy Blue, 256 GB)",99980.0,4.5,37.0,SAMSUNG
+791,"POCO X3 Pro (Steel Blue, 128 GB)",18999.0,4.3,20.0,POCO
+794,I Kall A4,1813.0,3.7,48.0,I
+795,"REDMI Note 14 Pro+ 5G (Spectre Blue, 512 GB)",35999.0,4.3,10.0,REDMI
+799,"SAMSUNG Galaxy A04s (Black, 64 GB)",8888.0,4.3,44.0,SAMSUNG
+801,"SAMSUNG Galy Z Fold5 (Phantom Black, 256 GB)",98990.0,4.6,38.0,SAMSUNG
+804,LAVA A3 vibe,1199.0,4.2,17.0,LAVA
+805,"REDMI 12 5G (Jade Black, 128 GB)",12499.0,4.3,30.0,REDMI
+808,Kechaoda A26,889.0,4,40.0,Kechaoda
+810,"realme 13 5G (Speed Green, 256 GB)",19999.0,4.3,13.0,realme
+811,"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1245.0,4,11.0,Nokia
+814,"realme 14 Pro Lite 5G (Glass Gold, 256 GB)",23999.0,4.5,14.0,realme
+815,"IQOO Z6 Lite 5G (With Charger) (Mystic Night, 128 GB)",11875.0,4.3,40.0,IQOO
+819,"POCO C55 (Power Black, 64 GB)",9499.0,4.2,20.0,POCO
+820,"OPPO F27 Pro+ (Midnight Navy, 256 GB)",27999.0,4.3,20.0,OPPO
+821,"vivo V40 5G (Purple, 128 GB)",34999.0,4.5,12.0,vivo
+824,"Xiaomi 14 CIVI (Panda White, 512 GB)",44999.0,4.3,25.0,Xiaomi
+825,"REDMI Note 14 Pro+ 5G (Phantom Purple, 128 GB)",30999.0,4.3,11.0,REDMI
+828,"vivo Y16 (Steller Black, 64 GB)",10999.0,4.2,21.0,vivo
+829,"REDMI A3 (Lake Blue, 128 GB)",8368.0,4.1,30.0,REDMI
+830,"REDMI Note 14 5G (Phantom Purple, 256 GB)",20697.0,4.2,10.0,REDMI
+831,"IQOO Neo9 Pro (Conqueror Black, 128 GB)",33100.0,4.5,17.0,IQOO
+835,"IQOO Z6 Lite 5G (Without Charger) (Mystic Night, 128 GB)",12760.0,4.2,36.0,IQOO
+838,"POCO C55 (Forest Green, 64 GB)",9499.0,4.2,20.0,POCO
+839,"REDMI Note 14 5G (Ivy Green, 128 GB)",18499.0,4.2,19.0,REDMI
+840,Snexian ROCK R5,899.0,3.6,40.0,Snexian
+841,"realme Narzo 70 Pro 5G (Glass Gold, 256 GB)",23989.0,4.4,11.0,realme
+844,"LAVA Blaze Pro 5G with Dual Sim|50MP Rear Camera|5000 mAh Battery|Expandable Upto 1TB (Radiant Pearl, ...",10970.0,4.2,26.0,LAVA
+845,"IQOO NEO9 PRO (Fiery Red, 128 GB)",32596.0,4.5,18.0,IQOO
+849,"LAVA Blaze Pro 5G with Dual Sim|50MP Rear Camera|5000 mAh Battery|Expandable Upto 1TB (Starry Night, 1...",10970.0,4.2,26.0,LAVA
+850,"vivo V30 5G (Classic Black, 256 GB)",29990.0,4.5,26.0,vivo
+854,"SAMSUNG M15 5G (Celestrial Blue, 128 GB)",13448.0,4.3,15.0,SAMSUNG
+855,"vivo Y28s 5G (Twinkling Purple, 128 GB)",12999.0,4.2,27.0,vivo
+858,Kechaoda K9,1167.0,4.1,31.0,Kechaoda
+859,"vivo Y28s 5G (Twinkling Purple, 128 GB)",14419.0,4.4,27.0,vivo
+861,"IQOO Z6 Lite 5G (Stellar Green, 128 GB)",12990.0,4.3,35.0,IQOO
+864,"vivo Y36 (Meteor Black, 128 GB)",14999.0,4.3,31.0,vivo
+865,"KARBONN K101i Dual SIM,Keypad Mobile,1.8''LCD,1000mAh Battery,TypeC USB,Memory Up to32GB",871.0,4.1,26.0,KARBONN
+868,"Google Pixel 8 Pro (Bay, 128 GB)",79999.0,4.4,25.0,Google
+869,"vivo Y200 Pro 5G (Silk Black, 128 GB)",22398.0,4.4,10.0,vivo
+870,"vivo X200 5G (Natural Green, 512 GB)",71999.0,4.7,11.0,vivo
+871,"Nokia 225 4G DS Keypad Mobile with Long Battery Life,Built-in Camera",2729.0,3.7,37.0,Nokia
+875,"SAMSUNG Galaxy A55 5G (Awesome Navy, 256 GB)",36999.0,4.4,19.0,SAMSUNG
+878,"Tecno Spark 30C 5G (Aurora Cloud, 128 GB)",12999.0,4,13.0,Tecno
+879,Kechaoda A27,890.0,4,40.0,Kechaoda
+880,"vivo Y100 5G (Metal Black, 128 GB)",16487.0,4.3,45.0,vivo
+881,"Nokia 215 DS 4G Keypad Phone with Long Battery Life,Wireless FM Radio",2360.0,3.7,37.0,Nokia
+885,"REDMI 12 (Pastel Blue, 128 GB)",9499.0,4.3,36.0,REDMI
+888,"SAMSUNG Galaxy A05s (Black, 128 GB)",10699.0,4.2,38.0,SAMSUNG
+889,"LAVA A3 Torch DS Keypad Phone|1750mAh Big Battery|1.8"" Large Display|Quad Strip Torch",1249.0,4.2,24.0,LAVA
+891,"vivo Y22 (Starlit Blue, 128 GB)",13499.0,4.3,28.0,vivo
+895,"Infinix Zero 30 5G (Rome Green, 256 GB)",23999.0,4.2,14.0,Infinix
+898,"vivo Y28s 5G (Vintage Red, 128 GB)",14498.0,4.4,27.0,vivo
+899,"LAVA Blaze 2 5G with Dual Sim|50MP Rear Camera|5000 mAh Battery|Expandable Upto 1 TB (Glass Blue, 64 G...",9998.0,4.2,13.0,LAVA
+900,"SAMSUNG Galaxy M16 5G (Mint Green, 128 GB)",12313.0,3.9,12.0,SAMSUNG
+901,"vivo Y200e 5G (Black Diamond, 128 GB)",19999.0,4.4,23.0,vivo
+904,"IQOO 12 5G (Alpha, 512 GB)",49995.0,4.2,23.0,IQOO
+905,"SAMSUNG A14 5G (Light Green, 128 GB)",11999.0,4.2,42.0,SAMSUNG
+908,"vivo V40 5G (Ganges Blue, 128 GB)",34999.0,4.5,12.0,vivo
+910,"Honor 200 5G (Moonlight White, 512 GB)",34999.0,4.1,22.0,Honor
+911,"OnePlus 12 (Silky Black, 256 GB)",54449.0,4.6,16.0,OnePlus
+914,"OPPO Find X8 5G (Space Black, 256 GB)",69999.0,4.6,12.0,OPPO
+918,"OPPO 12 Pro 5G (Manish Malhotra Limited Edition, 256 GB)",36999.0,4.5,31.0,OPPO
+921,KARBONN KX29 DS Keypad Mobile|3000 mAh Battery|0.3MP Rear Camera|Expandable Upto 32 GB,1499.0,3.7,16.0,KARBONN
+925,"REDMI 13 5G (Hawaiian Blue, 128 GB)",13999.0,4.3,30.0,REDMI
+928,"vivo Y28s 5G (Vintage Red, 128 GB)",13680.0,4.4,31.0,vivo
+929,"REDMI 13 5G (Orchid Pink, 128 GB)",13739.0,4.3,31.0,REDMI
+931,itel Ace2 Power,1177.0,4.2,15.0,itel
+934,LAVA A5_2025,1240.0,3.7,22.0,LAVA
+938,"realme Narzo 70 Pro 5G (Gold, Glass Gold, 128 GB)",20999.0,4.4,16.0,realme
+939,"Tecno Spark 30C 5G (Azure Sky, 128 GB)",10499.0,4.3,19.0,Tecno
+941,"Motorola Edge 50 Ultra 5G (Forest Grey, 512 GB)",49999.0,4.4,23.0,Motorola
+944,"vivo Y200e 5G (Saffron Delight, 128 GB)",19999.0,4.2,16.0,vivo
+945,KARBONN JioBharat K1 4G,790.0,3.7,56.0,KARBONN
+948,"SAMSUNG Galaxy A53 (Awesome Peach, 256 GB)",34670.0,4.1,19.0,SAMSUNG
+949,"OPPO F27 5G (Aber Orange, 128 GB)",20999.0,4.2,22.0,OPPO
+950,"realme Narzo 50 (Speed Black, 64 GB)",10499.0,4.4,34.0,realme
+951,"POCO M7 Pro 5G (Lavender Frost, 128 GB)",13999.0,4.3,26.0,POCO
+954,"REDMI Note 13 Pro+ 5G (Fusion White, 256 GB)",23800.0,4.3,29.0,REDMI
+955,"REDMI Note 13 Pro+ 5G (Fusion White, 256 GB)",24975.0,4.2,30.0,REDMI
+958,Kechaoda 888,1699.0,4.3,15.0,Kechaoda
+959,"realme Narzo 50 (Speed Blue, 64 GB)",10499.0,4.4,34.0,realme
